@@ -1,7 +1,7 @@
 ---
 title: "Why I Love Golang"
 date: 2018-06-02T09:59:56+07:00
-draft: true
+draft: false
 ---
 
 Well, my true love is actually Ruby but I will talk about Golang here. It's also not like real relationship: you can love multiple languages (yet again you may have just really one true love &mdash; as in real relationship).
