@@ -48,7 +48,7 @@ I like this book not because one of the authors is DHH, the Ruby on Rails creato
 
 Well, many books got me into management disciplinary, but this book certainly hit the nail. It tells the stories related to 5 dysfunctions that could happen to any team (and usually happen to) and how to fix them.
 
-It may surprise you that the 5 dysfunctions is just a basic ones every one may alrady know. But did you really look into them closely enough? Did you know how to fix them, efficiently? This book will help you in this.
+It may surprise you that the 5 dysfunctions are just basic ones every one may alrady know. But did you really look into them closely enough? Did you know how to fix them, efficiently? This book will help you in this.
 
 I would rate this book one of the greatest management books of all time.
 
@@ -56,16 +56,16 @@ I would rate this book one of the greatest management books of all time.
 
 ![Thinking, Fast & Slow](/img/book_thinking_fast_slow.jpg)
 
-Actually this book is only the one book in this list that I didn't finish despite reading it for nearly 5 years. It is exiting enough that I don't want to miss any detail.
+Actually this book is only the single book in this list that I didn't finish despite reading it for nearly 5 years. It is exiting enough that I don't want to miss any detail.
 
-Basically this book describes how your brain work. How it has two systems working in a different way, fast and slow. And how they affect our thinking, rationalale, and emotion.
+Basically this book describes how your brain work. How it has two systems working in different ways, fast and slow. And how they affect our thinking, rationale, and emotion.
 
 
 # 3. As a Man Thinketh
 
 ![As a Man Thinketh](/img/book_as_a_man_thinketh.jpg)
 
-**"As a man thinketh in his heart, so is he?"** is the quote from the book (actually it's from the Bible) that should succintly describes what this book is all about. I think I will never describe it better but I will try it anyway:
+**"As a man thinketh in his heart, so is he"** is the quote from the book (actually it's from the Bible) that should succintly describes what this book is all about. I think I will never describe it better but I will try it anyway:
 
 > "You are the result of your thinking."
 
@@ -85,6 +85,6 @@ This book challenges those ideas and demystifies how and what we can do for soci
 
 ![7 Habits of Highly Effective Teens](/img/book_7_habits_teens.jpg)
 
-This books sit, sleep, whatever in my bed like forever. Whenever I feel alone, whenever I'm not so sure about my life or what's going on, this book helps me correct things and focus on my way, on my life. It tells you 7 habits that could help you win in your life. I read this book more than 50 times if I can count I think, but still I'm not a master on this. I'm still trying though :)
+This books sit, sleep, whatever in my bed like forever. Whenever I feel alone, whenever I'm not so sure about my life or what's going on, this book helps me correct things and focus on my way, on my life. It tells you 7 habits that could help you win in your life. I read this book more than 50 times if I can count, I think, but still I'm not a master on this. I'm still trying though :)
 
 And that's it! I'm curious to what the list you have, if you please share it with me I would be grateful. Happy Songkran Day :)
