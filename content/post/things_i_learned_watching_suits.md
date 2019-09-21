@@ -1,7 +1,7 @@
 ---
 title: "Things I Learned Watching Suits"
 date: 2019-09-21T15:37:12+07:00
-draft: true
+draft: false
 ---
 
 Suits is a TV series about two lawyers (well, not technically two) living and practicing laws in New York.
