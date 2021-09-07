@@ -1,7 +1,7 @@
 ---
 title: "My Top 10 Programming Books of All Time"
 date: 2021-09-07T17:07:38+07:00
-draft: true
+draft: false
 ---
 
 I once wrote [My Top 10 Non-Fiction Books of All Time]({{< ref "post/my_top_10_non_fiction_books_of_all_time" >}} "My Top 10 Non-Fiction Books of All Time"). This time it is about programming!
